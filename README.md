@@ -72,3 +72,4 @@ Represented above at topic: "Grafische Darstellung eines Stacks"
 ## Source
 1. https://www.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/
 2. https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+3. https://www.codingninjas.com/studio/library/application-of-stack
