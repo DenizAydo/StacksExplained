@@ -26,3 +26,7 @@ Ein Stack ist eine lineare Datenstruktur, bei der es sich um die Ansammlung vers
 - peek(): O(1)
 - isFull(): O(1)
 - isEmpty(): O(1)
+
+
+
+
