@@ -33,4 +33,7 @@ Ein Stack ist eine lineare Datenstruktur, bei der es sich um die Ansammlung vers
 - Undo/Redo Funktion in Text Editoren und Bildbearbeitungssoftwares
 - Memory Management in der Computer Programmierung
 
+## Quellen
+1. https://www.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/
+2. https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
 
