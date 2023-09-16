@@ -10,8 +10,19 @@ Ein Stack ist eine lineare Datenstruktur, bei der es sich um die Ansammlung vers
 - push(item): Fügt ein beliebiges Element in einen Stack oben ein
 - pop(): Löscht das oberste Element von einem Stack
 - peek(): Gibt das oberste Element eines Stacks zurück
+- isEmpty(): Zeigt, ob ein Stack leer ist
+- isFull(): Zeigt, ob ein Stack voll ist
 - top: der oberste Punkt eines Stacks
 
 
 ## Grafische Darstellung eines Stacks
 ![Bild](https://media.geeksforgeeks.org/wp-content/uploads/20220714004311/Stack-660x566.png)
+
+
+## Zeitkomplexität eines Stacks
+
+- push(item): O(1)
+- pop(): O(1)
+- peek(): O(1)
+- isFull(): O(1)
+- isEmpty(): O(1)
