@@ -11,3 +11,7 @@ Ein Stack ist eine lineare Datenstruktur, bei der es sich um die Ansammlung vers
 - pop(): Löscht das oberste Element von einem Stack
 - peek(): Gibt das oberste Element eines Stacks zurück
 - top: der oberste Punkt eines Stacks
+
+
+## Grafische Darstellung eines Stacks
+![Bild](https://media.geeksforgeeks.org/wp-content/uploads/20220714004311/Stack-660x566.png)
