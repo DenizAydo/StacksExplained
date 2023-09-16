@@ -27,6 +27,10 @@ Ein Stack ist eine lineare Datenstruktur, bei der es sich um die Ansammlung vers
 - isFull(): O(1)
 - isEmpty(): O(1)
 
+## Anwendungsfälle eines Stacks
 
+- Vorwärts- und Rückwärtsfunktion in Web browsern
+- Undo/Redo Funktion in Text Editoren und Bildbearbeitungssoftwares
+- Memory Management in der Computer Programmierung
 
 
